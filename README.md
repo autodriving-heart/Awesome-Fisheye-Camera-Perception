@@ -139,3 +139,6 @@ Real-Time Dense Mapping for Self-driving Vehicles using Fisheye Cameras (ICRA 20
 
 插值方式
 理论上双线性插值的结果应该优于最近邻插值，不过双线性插值方式计算量大，非常耗时，而且两种不同的插值方式，结果差异肉眼几乎无法区分，在代码改成矩阵计算后，双线性插值方式代码实现起来繁琐，所以采用了最近邻插值。
+
+
+
