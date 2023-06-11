@@ -1,6 +1,14 @@
-## Awsome-Fisheye-Camera-Perception
+## Awesome-Fisheye-Camera-Perception
+
+
 
 自动驾驶应用中，AVP(自主代客泊车）成为各大主机厂和方案供应商落地的主要发力点，其中近域的4个鱼眼相机发挥了重要作用，其和普通的2D目标检测也有一些区别和联系，这里单独重点介绍。
+
+
+
+本仓库由[公众号【自动驾驶之心】](https://mp.weixin.qq.com/s/EfrWi-yXRGowOIkCDEsmfw)团队整理，欢迎关注，一览最前沿的技术分享！
+
+自动驾驶与AI学习社区：欢迎加入国内首个自动驾驶开发者社区！这里有最全面有效的自动驾驶与AI学习路线（感知/定位/融合）和自动驾驶与AI公司内推机会！
 
 
 
