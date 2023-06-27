@@ -12,7 +12,7 @@
 
 
 
-### 一、综述 Survey
+### 一、Survey
 
 Near-field Perception for Low-Speed Vehicle Automation using Surround-view Fisheye Cameras
 
@@ -26,7 +26,7 @@ Surround-View Cameras based Holistic Visual Perception for Automated Driving
 
 Surround-view Fisheye Camera Perception for Automated Driving: Overview, Survey & Challenges
 
-### 二、数据集 Dataset
+### 二、Dataset
 
 KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D
 
@@ -48,7 +48,7 @@ SynWoodScape: Synthetic Surround-view Fisheye Camera Dataset for Autonomous Driv
 
 [[Link]](https://woodscape.valeo.com/)
 
-### 三、鱼眼目标检测 Fisheye Object Detection
+### 三、Fisheye Object Detection
 
 Woodscape Fisheye Object Detection for Autonomous Driving --CVPR 2022 0mniCV Workshop Challenge
 
@@ -68,7 +68,7 @@ WoodScape A multi-task, multi-camera fisheye dataset for autonomous driving (ICC
 
 Surround-view Fisheye BEV-Perception for Valet Parking: Dataset, Baseline and Distortion-insensitive Multi-task Framework
 
-### 四、鱼眼语义分割 Fisheye Semantic Segmentation
+### 四、Fisheye Semantic Segmentation
 
 Semantic Segmentation of Panoramic Images Using a Synthetic Dataset (SPIE 2019)
 
@@ -80,11 +80,11 @@ CNN based Semantic Segmentation for Urban Traffic Scenes using fisheye camera (I
 
 Deep semantic segmentation for automated driving Taxonomy, roadmap and challenges ( ITSC 2017)
 
-## 五、鱼眼运动语义分割 Fisheye Motion Semantic Segmentation
+## 五、Fisheye Motion Semantic Segmentation
 
 暂无
 
-### 六、鱼眼深度估计 Fisheye Depth Estimation
+### 六、Fisheye Depth Estimation
 
 FisheyeDistanceNet: Self-Supervised Scale-Aware Distance Estimation using Monocular Fisheye Camera forAutonomous Driving
 
@@ -100,7 +100,7 @@ BiFuse-Monocular 360。Depth Estimation via Bi-Projection Fusion(CVPR 2020)
 
 Geometric structure based and regularized depth estimation from 360 indoor imagery (CVPR 2020)
 
-### 七、鱼眼SLAM Fisheye SLAM
+### 七、Fisheye SLAM
 
 Direct visual odometry for a fisheye-stereo camera (IROS 2017)
 
@@ -112,9 +112,9 @@ OmniDet: Surround View Cameras based Multi-task Visual Perception Network for Au
 
 Real-Time Dense Mapping for Self-driving Vehicles using Fisheye Cameras (ICRA 2019)
 
-### 八、代码实战 Code
+### 八、Code
 
-#### 1. 鱼眼图像矫正 Fisheye Image Correction
+#### 1. Fisheye Image Correction
 
 [HLearning/fisheye: fisheye image calibration (github.com)](https://github.com/HLearning/fisheye)
 
